@@ -1,0 +1,16 @@
+{
+  "name": "alina-pilatova-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "astro build"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@tailwindcss/vite": "^4.3.0",
+    "astro": "^7.3.0",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^5.9.3"
+  }
+}
